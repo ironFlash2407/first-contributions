@@ -198,7 +198,6 @@
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
-- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
@@ -265,6 +264,8 @@
 - [Tanu Singh](https://github.com/TanuSingh17)
   [Adarsh Sharma](https://github.com/Adarsh1885)
   [Elijah Glascock](https://github.com/ejglascock)
+  [Aryan Mathure@DevsocPI
+  ](https://github.com/ironFlash24)
 - [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
